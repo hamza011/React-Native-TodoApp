@@ -2,7 +2,7 @@
 todo-app with react-native.
 
 <section data-markdown>
-  <img src="./screenshots/Screenshot_1.png" width=300px height=100px/>
+  <img src="./screenshots/Screenshot_1.png" width=400px height=400px/>
 </section>
 
 
